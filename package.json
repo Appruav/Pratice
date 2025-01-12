@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Appruav/Pratice#readme",
   "dependencies": {
-    "typescript": "^5.7.3"
+    "@types/ws": "^8.5.13",
+    "typescript": "^5.7.3",
+    "ws": "^8.18.0"
   }
 }
